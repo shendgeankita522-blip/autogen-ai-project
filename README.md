@@ -46,6 +46,7 @@ autogen-ai-project/
 │   ├── .env.example
 │   ├── README.md
 │   └── Images/
+|       ├── Home.png
 │       ├── Output1.png
 │       ├── Output2.png
 │       └── Output3.png
@@ -58,19 +59,9 @@ autogen-ai-project/
 │   ├── README.md
 │   └── Images/
 │       ├── Output1.png
-│  
-│     
-│
+|
 ├── 📁 Autogen-Vision/
 │   ├── ag-vision.py
-│   ├── requirements.txt
-│   ├── .gitignore
-│   ├── .env.example
-│   ├── README.md
-│   └── Images/
-│       ├── Home.png
-│       ├── Output1.png
-│       └── Output2.png
 │
 └── README.md
 ```
@@ -131,27 +122,7 @@ Simple Explanation
 - Google Gemini
 - Streamlit
 - python-dotenv
-- asyncio
-
-## 📸 Output Screenshots
-
-### Output 1
-
-<p align="center">
-  <img src="./Autogen-Single/Images/Output1.png" alt="AutoGen Single Agent Output 1" width="900">
-</p>
-
-### Output 2
-
-<p align="center">
-  <img src="./Autogen-Single/Images/Output2.png" alt="AutoGen Single Agent Output 2" width="900">
-</p>
-
-### Output 3
-
-<p align="center">
-  <img src="./Autogen-Single/Images/Output3.png" alt="AutoGen Single Agent Output 3" width="900">
-</p>
+- asynci
 
 ---
 
@@ -317,26 +288,6 @@ AI Response
 - Requests
 - python-dotenv
 - asyncio
-
-## 📸 Output Screenshots
-
-### Home
-
-<p align="center">
-  <img src="./Autogen-Vision/Images/Home.png" alt="AutoGen Vision Home" width="900">
-</p>
-
-### Output 1
-
-<p align="center">
-  <img src="./Autogen-Vision/Images/Output1.png" alt="AutoGen Vision Output 1" width="900">
-</p>
-
-### Output 2
-
-<p align="center">
-  <img src="./Autogen-Vision/Images/Output2.png" alt="AutoGen Vision Output 2" width="900">
-</p>
 
 ---
 
