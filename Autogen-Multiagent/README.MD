@@ -192,21 +192,35 @@ autogen-multi-agent-ai/
 
 ## 📸 Application Screenshots
 
-### 🏠 Home Page
+<table>
+  <tr>
+    <td align="center">
+      <img src="./Images/Home.png" alt="Home" width="450">
+    </td>
+    <td align="center">
+      <img src="./Images/Output1.png" alt="Output 1" width="450">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏠 Home</b></td>
+    <td align="center"><b>📋 Output 1</b></td>
+  </tr>
 
-![Home Page](./Images/Home.png)
+  <tr>
+    <td align="center">
+      <img src="./Images/Output2.png" alt="Output 2" width="450">
+    </td>
+    <td align="center">
+      <img src="./Images/Output3.png" alt="Output 3" width="450">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📋 Output 2</b></td>
+    <td align="center"><b>📋 Output 3</b></td>
+  </tr>
+</table>
 
-### 📋 Output 1
 
-![Output 1](./Images/Output1.png)
-
-### 📋 Output 2
-
-![Output 2](./Images/Output2.png)
-
-### 📋 Output 3
-
-![Output 3](./Images/Output3.png)
 
 # ⚙️ Installation
 
