@@ -58,8 +58,8 @@ autogen-ai-project/
 │   ├── README.md
 │   └── Images/
 │       ├── Output1.png
-│       ├── Output2.png
-│       └── Output3.png
+│  
+│     
 │
 ├── 📁 Autogen-Vision/
 │   ├── ag-vision.py
