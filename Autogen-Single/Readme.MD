@@ -1,8 +1,3 @@
-# 🌱 AutoGen Single Agent - Non-Tech Mentor
-
-A simple **Agentic AI application** built using **Microsoft AutoGen, Google Gemini, Python, and Streamlit**.
-
-This project demonstrates how a single AI agent can act as a friendly technical mentor and explain technical concepts to non-technical users using simple language and real-world analogies.
 
 ---
 
