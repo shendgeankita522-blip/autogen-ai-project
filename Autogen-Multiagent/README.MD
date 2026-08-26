@@ -1,3 +1,8 @@
+# 🖼️ Multimodal AI Image Analyzer using AutoGen & Gemini
+
+An interactive **Multimodal AI Image Analyzer** built using **Python, Microsoft AutoGen, Google Gemini, and Streamlit**.
+
+The application allows users to upload an image or use a random sample image, enter a natural-language prompt, and receive an AI-powered analysis of the image.
 
 ---
 
