@@ -1,3 +1,8 @@
+# 🤖 AutoGen AI Projects
+
+A collection of practical **Agentic AI projects** built using **Microsoft AutoGen, Google Gemini, Python, and Streamlit**.
+
+This repository contains multiple projects demonstrating **Single-Agent AI, Multi-Agent AI, Multimodal Vision AI, Gemini integration, and Multi-Agent planning**.
 
 ---
 
